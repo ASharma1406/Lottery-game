@@ -1,0 +1,21 @@
+.Ticket {
+    border: 3px solid pink;
+    border-radius: 1rem;
+    height: auto;
+    width: 20rem;
+    font: 2rem solid;
+}
+
+.Heading1 {
+    height: 4rem;
+    width: 20rem;
+    font: 3rem solid;
+    text-align: center;
+}
+
+.Heading3 {
+    height: 4rem;
+    width: 20rem;
+    font: 2rem solid;
+    text-align: center;
+}
