@@ -1,4 +1,7 @@
-Lottery Game is a game which is made using React.js
+#Lottery Game is a game in which you can generate a lottery ticket by simply clicking on it. 
+You can win the lottery only if you have 0 at the starting of the ticket number.
+
+This game is made using #React.js
 To run this project, the system should have the node js and npm priorily installed in your system.
 
 Install the dependencies:
