@@ -10,5 +10,5 @@ Install the dependencies:
 Run the project:
 -> npm start
 
-Click on the link below to run this code:
+Click on the link below to run the project:
     https://asharma1406.github.io/Lottery-game/
